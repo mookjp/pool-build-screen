@@ -11,7 +11,7 @@
                 { scrollTop:
                     $(".log-console")[0].scrollHeight - $(".log-console").height()
                 },
-                200);
+                50);
         }
     }
 
